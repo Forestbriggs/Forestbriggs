@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Forest @Forestbriggs
 - 👀 I’m interested in JavaScript, Python, and Web Development
-- 🌱 I’m currently learning React and Redux through App Academy's Bootcamp along with Python through Angela Yu's 100 Days of Python Udemy course!
+- 🌱 I’m currently learning Flask and Docker through App Academy's Bootcamp!
 - 📫 How to reach me:  
 >- Email: Forestbriggs14@gmail.com
 >- LinkedIn: www.linkedin.com/in/forest-briggs
