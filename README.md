@@ -7,7 +7,7 @@ I'm a passionate software engineer with a love for building intuitive and innova
 ### 🚀 Projects:  
 - **[ApplySage](https://github.com/Forestbriggs/apply_sage):** A job application tracker for developers.
 - **[Q-Understack](https://github.com/Sohna-AI/q-understack):** A Stack Overflow clone built with a 3-man team using React/Redux, Flask/SQLAlchemy, and Docker.
-- **[Grand Line Gathering](https://github.com/Forestbriggs/Grand-line-gathering):** My first full-stack project, built with React/Redux and Express/Sequelize.
+- **[Grand Line Gathering](https://github.com/Forestbriggs/Grand-line-gatherings):** My first full-stack project, built with React/Redux and Express/Sequelize.
 
 ### 🔗 Connect with me:  
 - Portfolio: [forestbriggsdev.vercel.app](https://forestbriggsdev.vercel.app/)  
