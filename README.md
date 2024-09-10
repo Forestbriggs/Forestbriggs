@@ -2,7 +2,7 @@
 **💻 Software Engineer | Web Developer | Problem Solver**  
 **📍 Junction City, OR**
 
-I'm a passionate software engineer with a love for building intuitive and innovative web applications. Currently expanding my skills in Flask and Docker through App Academy's bootcamp, I specialize in JavaScript, Python, and full-stack web development. I thrive on the satisfaction of solving complex problems and enjoy working on projects that push my technical limits.
+I'm a passionate software engineer with a love for building intuitive and innovative web applications. Currently expanding my skills in Flask and Docker through App Academy's bootcamp, I specialize in TypeScript, Python, and full-stack web development. I thrive on the satisfaction of solving complex problems and enjoy working on projects that push my technical limits.
 
 ### 🚀 Projects:  
 - **[ApplySage](https://github.com/Forestbriggs/apply_sage):** A job application tracker for developers.
