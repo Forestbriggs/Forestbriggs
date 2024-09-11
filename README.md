@@ -1,4 +1,4 @@
-## 🌱 Ocean (Forest) Briggs-Mineart  
+## 🌱 Forest Briggs 
 **💻 Software Engineer | Web Developer | Problem Solver**  
 **📍 Junction City, OR**
 
