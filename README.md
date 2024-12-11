@@ -4,7 +4,9 @@
 
 *Code, coffee, and the occasional debugging dance.*
 
-I’m a software engineer who loves turning complex problems into elegant web applications with TypeScript and Python. Recently, I’ve been diving into Go, Docker, and AWS to broaden my toolkit and tackle new challenges. I aim to make tech both innovative and intuitive, and I approach every project with creativity and a drive for impact. When I’m not coding, I’m either attempting to master new guitar riffs or fueling up with a fresh cup of coffee—because every good project needs a solid soundtrack and caffeine boost.
+Once a kid who loved taking apart electronics (much to my mom's dismay) and building my first website in 3rd grade, I've come full circle back to my first love: creating technology. After years of self-doubt from a discouraging teacher, I rediscovered my passion and commitment to coding.
+
+Now, I'm a full-stack engineer who believes every line of code tells a story. My technical toolkit is constantly expanding, driven by curiosity and a passion for solving complex problems across various technologies and frameworks. The same spirit of innovation that once had me dismantling electronic toys now fuels my approach to software development. Each project is an opportunity to learn, create, and push the boundaries of what's possible—whether I'm building intricate web applications, exploring new programming paradigms, or diving deep into emerging technologies.
 
 ### 🚀 Projects:  
 - **[ApplySage](https://github.com/Forestbriggs/apply_sage):** A job application tracker for developers.
