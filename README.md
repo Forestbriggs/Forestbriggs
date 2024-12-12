@@ -10,7 +10,6 @@ Once a kid who loved taking apart electronics (much to my mom's dismay) and buil
 
 Now, I'm a full-stack engineer who believes every line of code tells a story. My technical toolkit is constantly expanding, driven by curiosity and a passion for solving complex problems across various technologies and frameworks. The same spirit of innovation that once had me dismantling electronic toys now fuels my approach to software development. Each project is an opportunity to learn, create, and push the boundaries of what's possible—whether I'm building intricate web applications, exploring new programming paradigms, or diving deep into emerging technologies.
 
-<!--
 ### 🛠 Technical Skills
 
 **Languages**
@@ -96,7 +95,6 @@ Now, I'm a full-stack engineer who believes every line of code tells a story. My
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-434343?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />  
--->
 
 ### 🏗 Featured Projects
 
